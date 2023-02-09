@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Starched/test/main/html.yaml",
+    "url": "https://raw.githubusercontent.com/Starched/test/main/phish_test.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Starched/test/main/html.yaml",
+            "url": "https://raw.githubusercontent.com/Starched/test/main/phish_test.yaml",
             "name": "qwerty"
         }
     ]
