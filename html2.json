@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Starched/test/main/td_phish.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Starched/test/main/td_phish.yaml",
+            "name": "qwerty"
+        }
+    ]
+}
